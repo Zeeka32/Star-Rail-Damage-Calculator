@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[2138],{2138:function(a,e,c){a.exports=c.p+"static/media/serval.ec33b9ef838395c188a4.webp"}}]);
