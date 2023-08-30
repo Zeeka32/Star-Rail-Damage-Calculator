@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Star-Rail-Damage-Calculator/static/css/main.2c97de10.css",
-    "main.js": "/Star-Rail-Damage-Calculator/static/js/main.ecffe47c.js",
+    "main.js": "/Star-Rail-Damage-Calculator/static/js/main.868a35f3.js",
     "static/js/8056.6c3d0bea.chunk.js": "/Star-Rail-Damage-Calculator/static/js/8056.6c3d0bea.chunk.js",
     "static/js/6403.6a7de55b.chunk.js": "/Star-Rail-Damage-Calculator/static/js/6403.6a7de55b.chunk.js",
     "static/js/3099.fa899746.chunk.js": "/Star-Rail-Damage-Calculator/static/js/3099.fa899746.chunk.js",
@@ -185,12 +185,14 @@
     "static/js/8669.b12fec61.chunk.js": "/Star-Rail-Damage-Calculator/static/js/8669.b12fec61.chunk.js",
     "static/js/787.64b0fae6.chunk.js": "/Star-Rail-Damage-Calculator/static/js/787.64b0fae6.chunk.js",
     "static/media/solitaryhealing.webp": "/Star-Rail-Damage-Calculator/static/media/solitaryhealing.20af714ec5a455067ba3.webp",
+    "static/media/qqDmgTest.webp": "/Star-Rail-Damage-Calculator/static/media/qqDmgTest.b7b34b154e8098db1b9d.webp",
     "static/media/alreadyshut.webp": "/Star-Rail-Damage-Calculator/static/media/alreadyshut.3283c8fe7e873e16e3ed.webp",
     "static/media/brighter.webp": "/Star-Rail-Damage-Calculator/static/media/brighter.c35cf9b1cb59971fdf26.webp",
     "static/media/sampo.webp": "/Star-Rail-Damage-Calculator/static/media/sampo.4043c90e7dd827ad36c0.webp",
     "static/media/rutilant.webp": "/Star-Rail-Damage-Calculator/static/media/rutilant.d597527d2150cbd3a138.webp",
     "static/media/brokenkeel.webp": "/Star-Rail-Damage-Calculator/static/media/brokenkeel.07b683626b05f5494d4f.webp",
     "static/media/Abundance.webp": "/Star-Rail-Damage-Calculator/static/media/Abundance.49194e01f2a57c71c7b2.webp",
+    "static/media/DmgBoostExplain.webp": "/Star-Rail-Damage-Calculator/static/media/DmgBoostExplain.f773c479ea2100e4bead.webp",
     "static/media/shattered.webp": "/Star-Rail-Damage-Calculator/static/media/shattered.00756d1c890c2e4660b8.webp",
     "static/media/geniuses.webp": "/Star-Rail-Damage-Calculator/static/media/geniuses.64b39398b0324a3c242d.webp",
     "static/media/breakfast.webp": "/Star-Rail-Damage-Calculator/static/media/breakfast.ed0a750d34e1e4769a8b.webp",
@@ -268,6 +270,8 @@
     "static/media/loop.webp": "/Star-Rail-Damage-Calculator/static/media/loop.e11b1836dca7383ca3ec.webp",
     "static/media/Destruction.webp": "/Star-Rail-Damage-Calculator/static/media/Destruction.445faa05868adeadc471.webp",
     "static/media/Erudition.webp": "/Star-Rail-Damage-Calculator/static/media/Erudition.fdd11b54bf29a5116f4b.webp",
+    "static/media/DmgBoostExplainInGame.webp": "/Star-Rail-Damage-Calculator/static/media/DmgBoostExplainInGame.74b3ee2ad367a5e24b24.webp",
+    "static/media/enemyStats.webp": "/Star-Rail-Damage-Calculator/static/media/enemyStats.b90a9428f32e21e5a2ae.webp",
     "static/media/unreachable.webp": "/Star-Rail-Damage-Calculator/static/media/unreachable.e232f0a4aab996843944.webp",
     "static/media/patience.webp": "/Star-Rail-Damage-Calculator/static/media/patience.6fcd25a7258163e8daa4.webp",
     "static/media/Imaginary.webp": "/Star-Rail-Damage-Calculator/static/media/Imaginary.e6c4769586570b627666.webp",
@@ -275,8 +279,10 @@
     "static/media/jingyuan.webp": "/Star-Rail-Damage-Calculator/static/media/jingyuan.dd0b120322b0f2cbe1d0.webp",
     "static/media/Physical.webp": "/Star-Rail-Damage-Calculator/static/media/Physical.8b4637661dd9a099be5f.webp",
     "static/media/Lightning.webp": "/Star-Rail-Damage-Calculator/static/media/Lightning.11bcb28c9b1d814f4bea.webp",
+    "static/media/baseAtkExplainInGame.webp": "/Star-Rail-Damage-Calculator/static/media/baseAtkExplainInGame.338be1a448a4c157f05e.webp",
     "static/media/nullCone.webp": "/Star-Rail-Damage-Calculator/static/media/nullCone.5f532650efe0837ec77b.webp",
     "static/media/himeko.webp": "/Star-Rail-Damage-Calculator/static/media/himeko.898f3057fd88abe629da.webp",
+    "static/media/baseAtkExplain.webp": "/Star-Rail-Damage-Calculator/static/media/baseAtkExplain.fcd08b88c4f539b73fca.webp",
     "static/media/add.webp": "/Star-Rail-Damage-Calculator/static/media/add.8c7a5b8561d1157f96f9.webp",
     "static/media/arlan.webp": "/Star-Rail-Damage-Calculator/static/media/arlan.2c75ea0c2b0fedead69e.webp",
     "static/media/Wind.webp": "/Star-Rail-Damage-Calculator/static/media/Wind.0e9f4a5ba6c905479e5a.webp",
@@ -288,6 +294,8 @@
     "static/media/danhengil.webp": "/Star-Rail-Damage-Calculator/static/media/danhengil.95d1f7b10ecbd027aca5.webp",
     "static/media/Quantum.webp": "/Star-Rail-Damage-Calculator/static/media/Quantum.0f050ac92760d48bc48e.webp",
     "static/media/kafka.webp": "/Star-Rail-Damage-Calculator/static/media/kafka.eb4b996ab1f649df387c.webp",
+    "static/media/enemyStatsInGame.webp": "/Star-Rail-Damage-Calculator/static/media/enemyStatsInGame.dfe3db6ed26db11aa28e.webp",
+    "static/media/qqDmgTestInCalc.webp": "/Star-Rail-Damage-Calculator/static/media/qqDmgTestInCalc.ff74cfebf12cc79b3af3.webp",
     "static/media/march.webp": "/Star-Rail-Damage-Calculator/static/media/march.00c4f35535e7a0380b2a.webp",
     "static/media/sushang.webp": "/Star-Rail-Damage-Calculator/static/media/sushang.7846980a62810993b669.webp",
     "static/media/yanqing.webp": "/Star-Rail-Damage-Calculator/static/media/yanqing.459f9591b951ea8af3bc.webp",
@@ -338,11 +346,11 @@
     "static/media/Feet.webp": "/Star-Rail-Damage-Calculator/static/media/Feet.f9900417442511a14504.webp",
     "static/media/Sphere.webp": "/Star-Rail-Damage-Calculator/static/media/Sphere.c7213b370cc41979843f.webp",
     "main.2c97de10.css.map": "/Star-Rail-Damage-Calculator/static/css/main.2c97de10.css.map",
-    "main.ecffe47c.js.map": "/Star-Rail-Damage-Calculator/static/js/main.ecffe47c.js.map",
+    "main.868a35f3.js.map": "/Star-Rail-Damage-Calculator/static/js/main.868a35f3.js.map",
     "787.64b0fae6.chunk.js.map": "/Star-Rail-Damage-Calculator/static/js/787.64b0fae6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c97de10.css",
-    "static/js/main.ecffe47c.js"
+    "static/js/main.868a35f3.js"
   ]
 }
