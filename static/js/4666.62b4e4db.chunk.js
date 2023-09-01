@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[4666],{4666:function(a,e,c){a.exports=c.p+"static/media/silverwolf.54085af64a87cce067a2.webp"}}]);
