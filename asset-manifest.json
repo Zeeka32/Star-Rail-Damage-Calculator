@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Star-Rail-Damage-Calculator/static/css/main.91a042e3.css",
-    "main.js": "/Star-Rail-Damage-Calculator/static/js/main.664aeae9.js",
+    "main.css": "/Star-Rail-Damage-Calculator/static/css/main.ff8c263a.css",
+    "main.js": "/Star-Rail-Damage-Calculator/static/js/main.b86b7fdc.js",
     "static/js/8056.6c3d0bea.chunk.js": "/Star-Rail-Damage-Calculator/static/js/8056.6c3d0bea.chunk.js",
     "static/js/6403.6a7de55b.chunk.js": "/Star-Rail-Damage-Calculator/static/js/6403.6a7de55b.chunk.js",
     "static/js/3099.fa899746.chunk.js": "/Star-Rail-Damage-Calculator/static/js/3099.fa899746.chunk.js",
@@ -355,12 +355,12 @@
     "static/media/Hands.webp": "/Star-Rail-Damage-Calculator/static/media/Hands.44358b0a89394ce164b1.webp",
     "static/media/Feet.webp": "/Star-Rail-Damage-Calculator/static/media/Feet.f9900417442511a14504.webp",
     "static/media/Sphere.webp": "/Star-Rail-Damage-Calculator/static/media/Sphere.c7213b370cc41979843f.webp",
-    "main.91a042e3.css.map": "/Star-Rail-Damage-Calculator/static/css/main.91a042e3.css.map",
-    "main.664aeae9.js.map": "/Star-Rail-Damage-Calculator/static/js/main.664aeae9.js.map",
+    "main.ff8c263a.css.map": "/Star-Rail-Damage-Calculator/static/css/main.ff8c263a.css.map",
+    "main.b86b7fdc.js.map": "/Star-Rail-Damage-Calculator/static/js/main.b86b7fdc.js.map",
     "787.64b0fae6.chunk.js.map": "/Star-Rail-Damage-Calculator/static/js/787.64b0fae6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91a042e3.css",
-    "static/js/main.664aeae9.js"
+    "static/css/main.ff8c263a.css",
+    "static/js/main.b86b7fdc.js"
   ]
 }
