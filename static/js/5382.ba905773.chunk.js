@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[5382],{5382:function(a,c,e){a.exports=e.p+"static/media/belbog.19b3c262e4bc34c22c27.webp"}}]);
