@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[35593],{35593:function(a,e,c){a.exports=c.p+"static/media/cornucopia.9a05ea0ebd3e9e4839cb.webp"}}]);

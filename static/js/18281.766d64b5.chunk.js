@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[18281],{18281:function(a,e,s){a.exports=s.p+"static/media/salsotto.f0d982cea829450f1e24.webp"}}]);

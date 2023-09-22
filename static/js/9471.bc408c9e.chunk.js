@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[9471],{9471:function(a,e,s){a.exports=s.p+"static/media/longevous.5a893dfe20229a9beb3e.webp"}}]);

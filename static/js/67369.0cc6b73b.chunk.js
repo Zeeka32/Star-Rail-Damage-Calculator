@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[67369],{67369:function(a,e,c){a.exports=c.p+"static/media/finefruit.21c05342bfa251420ee1.webp"}}]);

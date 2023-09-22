@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[75713],{75713:function(a,e,c){a.exports=c.p+"static/media/fermata.619a67001be200c00401.webp"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[8634],{8634:function(a,e,c){a.exports=c.p+"static/media/wastelander.d8fd28427c6dc41582b0.webp"}}]);
