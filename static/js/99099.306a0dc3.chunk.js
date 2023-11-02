@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarrail_damage_calc=self.webpackChunkstarrail_damage_calc||[]).push([[99099],{99099:function(a,e,c){a.exports=c.p+"static/media/argenti.e4335f0cf6b7548b0588.webp"}}]);
